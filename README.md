@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kittikom Kornmanakij 
-- 👀 I’m seeking for CO-OP position in IT or any related field for Fall 2024 semester 
+- 👀 I’m seeking for CO-OP position in IT, software developer, or any related field for Winter 2025 semester 
 - 🌱 I’m currently 2nd year student in Computer Programming and Analysis program at Seneca Polytechnic
 - 💞️ I’m looking to collaborate on new friends or colleages
 - 📫 You can reach me out on LinkedIn: https://www.linkedin.com/in/kittikom-kornmanakij-08679b1a5/
