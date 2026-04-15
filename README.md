@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kittikom Kornmanakij 
-- 👀 I’m seeking for CO-OP position in Data Engineer, software developer, or any related field for Summer 2025 semester 
+- 👀 I’m currently seeking for a full-time position as a software tester!
 - 🌱 I’m currently 3rd year student in Computer Programming and Analysis program at Seneca Polytechnic
 - 💞️ I’m looking to collaborate on new friends or colleages
 - 📫 You can reach me out on LinkedIn: https://www.linkedin.com/in/kittikomkornmanakij/
