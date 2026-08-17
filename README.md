@@ -1,7 +1,22 @@
-- 👋 Hi, I’m Kittikom Kornmanakij 
-- 👀 I’m currently seeking for a full-time position as a software tester!
-- 🌱 I’m currently 3rd year student in Computer Programming and Analysis program at Seneca Polytechnic
-- 💞️ I’m looking to collaborate on new friends or colleages
-- 📫 You can reach me out on LinkedIn: https://www.linkedin.com/in/kittikomkornmanakij/
-- 😄 I'm currently exploring the world of Data Engineering, Cloud Computing (AWS), project management, etc. (see more projects in my repo!)
-- ⚡ Fun fact: The weight of entire internet in the world(calculated by the mass of electron which is 9.11 × 10^-31 kg) is approximately 50g or it is equivalent to the weight of a strawberry!!
+# 👋 Hey there, I'm Kit!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kittikomkornmanakij/)
+
+🎓 **Computer Programming & Analysis** (Seneca Polytechnic)
+
+⚙️ **B.Eng in Mechanical Engineering** (King Mongkut's University of Technology North Bangkok)
+
+> I am a former R&D Design Engineer transitioned into software development and QA. I bring a highly analytical, engineering-first mindset to building reliable software pipelines, performing automated and manual testing, and working across cloud architectures.
+
+---
+
+### 🚀 What I'm Up To
+- 🔭 **Currently Seeking:** Full-time roles in **Software Testing / QA Engineering / Software Developer / SDET**
+- 🌱 **Currently Learning:** Data Engineering pipelines & AWS Cloud Architecture
+- 🤝 **Open To:** Collaborating on open-source software, testing frameworks, or hardware-software integration projects
+- 📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/kittikomkornmanakij/)
+
+---
+
+### 💡 Fun Fact
+> The entire internet's moving electrons weigh roughly **50 grams**—about the same as a single strawberry! 🍓
